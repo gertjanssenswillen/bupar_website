@@ -10,7 +10,9 @@ output:
 ```{r echo = F}
 htmltools::includeHTML("tracking_google_analytics.html")
 ```
+
 ## Introduction
+
 A precendence diagrams is a two-dimensional matrix showing the flows between activities. It can be contain different type values, by adjusting the type argument.
 
 *	Absolute frequency of flows
